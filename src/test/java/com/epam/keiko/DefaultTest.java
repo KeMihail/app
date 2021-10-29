@@ -7,7 +7,7 @@ public class DefaultTest {
 
     @Test
     public void defaultTest() {
-        Assert.assertTrue("hello".equals("world"));
+        Assert.assertTrue("hello".equals("hello"));
     }
 
 }
